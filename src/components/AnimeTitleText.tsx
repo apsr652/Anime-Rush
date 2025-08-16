@@ -1,6 +1,5 @@
 // src/components/AnimeTitleText.tsx
 import { motion } from "framer-motion";
-import { ANIMATION_CONFIG } from "../lib/constant";
 import { AnimeTitle } from "../lib/types";
 
 type AnimeTitleTextProps = {
